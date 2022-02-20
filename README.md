@@ -1,5 +1,14 @@
 # Bitcoin Payment Channels, A Taxonomy
 
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 ## Introduction
 
 The concept of a payment channel in Bitcoin has been around for several years, but recent changes to the protocol (**OP_CHECKLOCKTIMEVERIFY**, **OP_CHECKSEQUENCEVERIFY**, Segregated Witness) have made much more powerful constructions of payment channels possible. I haven't been able to find a resource that describes the different varieties of payment channels in full detail, and much of the available material is now obsolete.
